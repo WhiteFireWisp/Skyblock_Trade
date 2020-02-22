@@ -1,8 +1,0 @@
-{
-“name”: “skblock-trade”,
-“version”: “1.0.0”,
-“description”: “A bot for trading on hypixel skyblock!”,
-“main”: “bot.js”,
-“author”: “Ender”,
-“dependencies”: {}
-}
